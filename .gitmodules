@@ -1,0 +1,6 @@
+[submodule "IRIS-core/hardware-sch-blocks"]
+	path = IRIS-core/hardware-sch-blocks
+	url = https://github.com/calstar/hardware-sch-blocks.git
+[submodule "IRIS-core/esp32-wrover-kicad"]
+	path = IRIS-core/esp32-wrover-kicad
+	url = https://github.com/aliafshar/esp32-wrover-kicad.git
