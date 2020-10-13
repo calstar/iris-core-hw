@@ -4,3 +4,9 @@
 [submodule "IRIS-core/esp32-wrover-kicad"]
 	path = IRIS-core/esp32-wrover-kicad
 	url = https://github.com/aliafshar/esp32-wrover-kicad.git
+[submodule "IRIS-core/teensy_library"]
+	path = IRIS-core/teensy_library
+	url = https://github.com/XenGi/teensy_library.git
+[submodule "IRIS-core/teensy.pretty"]
+	path = IRIS-core/teensy.pretty
+	url = https://github.com/XenGi/teensy.pretty.git
