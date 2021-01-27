@@ -1317,7 +1317,7 @@ Text Label 11550 2100 0    50   ~ 0
 ~RST_MEM
 Wire Wire Line
 	12000 2100 11550 2100
-Text Label 14650 3300 2    50   ~ 0
+Text Label 14650 3200 2    50   ~ 0
 HG_INT2
 Wire Wire Line
 	14200 2500 14900 2500
@@ -1988,7 +1988,7 @@ Wire Wire Line
 Wire Wire Line
 	11350 1100 12000 1100
 Wire Wire Line
-	14200 3300 14650 3300
+	14200 3200 14650 3200
 Wire Wire Line
 	14200 3100 14650 3100
 Wire Wire Line
@@ -2195,5 +2195,5 @@ NoConn ~ 14700 7950
 NoConn ~ 14200 1400
 NoConn ~ 6200 4650
 NoConn ~ 12000 3000
-NoConn ~ 14200 3200
+NoConn ~ 14200 3300
 $EndSCHEMATC
